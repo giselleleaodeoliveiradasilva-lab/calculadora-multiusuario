@@ -1,44 +1,19 @@
-🧮 Calculadora Multiusuário em Python
+# 🧮 Calculadora Multiusuário em Python (v2.2)
 
-Uma aplicação de calculadora desenvolvida em Python puro (Terminal), focada em lógica de programação estruturada, tratamento de exceções e manipulação de múltiplos argumentos utilizando *args.
+Projeto desenvolvido como parte dos estudos práticos de lógica de programação e algoritmos na graduação em **Ciência da Computação** (Faculdade Estácio). Esta aplicação evoluiu de um script de terminal para uma **Interface Gráfica (GUI)** completa.
 
-Este projeto faz parte do meu portfólio de estudos em desenvolvimento de software, demonstrando a transição de conceitos fundamentais da linguagem para soluções limpas e reutilizáveis.
+## 🚀 Tecnologias e Conceitos Aplicados
+* **Python 3**: Linguagem principal utilizada.
+* **Tkinter**: Biblioteca padrão do Python para criação de interfaces gráficas.
+* **Parâmetros Dinâmicos (`*args`)**: Manipulação de uma quantidade ilimitada de entradas numéricas na lógica de cálculo.
+* **Tratamento de Exceções (`try/except`)**: Garantia de robustez contra entradas inválidas e divisão por zero.
+* **Clean Code & UX**: Validações de formato, botão de limpeza rápida (`Limpar`) e mensagens de alerta amigáveis (`messagebox`).
 
-🚀 Funcionalidades
+---
 
-Suporte a múltiplos números (*args): Permite realizar operações matemáticas contínuas com quantos números o usuário desejar informar.
+## 🖥️ Como Executar o Projeto
 
-Operações suportadas: Adição (+), Subtração (-), Multiplicação (*) e Divisão (/).
-
-Tratamento de Erros robusto (try/except): Protege o sistema contra entradas inválidas e evita falhas críticas por divisão por zero.
-
-Fluxo Interativo: Permite ao usuário digitar valores dinamicamente até decidir encerrar a operação com o comando 'fim'.
-
-🛠️ Tecnologias Utilizadas
-
-Python 3.x (Linguagem principal)
-
-Git & GitHub (Versionamento e gerenciamento de código-fonte)
-
-💻 Como Executar o Projeto
-
-Clone o repositório para o seu computador:
-
-git clone https://github.com/giselleleaodeoliveiradasilva-lab/calculadora-multiusuario.git
-
-
-Acesse a pasta do projeto pelo terminal:
-
-cd calculadora-multiusuario
-
-
-Execute o arquivo Python:
-
-python calculadora.py
-
-
-👩‍💻 Autora
-
-Desenvolvido por Giselle Leão
-
-Estudante de Análise e Desenvolvimento de Sistemas | Em constante evolução técnica rumo ao mercado de tecnologia.
+1. Certifique-se de ter o Python instalado na sua máquina.
+2. Clone este repositório:
+   ```bash
+   git clone [https://github.com/giselleleaodeoliveiradasilva-lab/calculadora-multiusuario.git](https://github.com/giselleleaodeoliveiradasilva-lab/calculadora-multiusuario.git)
